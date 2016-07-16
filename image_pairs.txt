@@ -1,0 +1,38 @@
+ir_camera.ymal camera.ymal 
+image_correspondence/ir_000000.bmp  image_correspondence/000000.bmp 
+image_correspondence/ir_000001.bmp  image_correspondence/000001.bmp 
+image_correspondence/ir_000002.bmp  image_correspondence/000002.bmp 
+image_correspondence/ir_000003.bmp  image_correspondence/000003.bmp 
+image_correspondence/ir_000004.bmp  image_correspondence/000004.bmp 
+
+image_correspondence/ir_000005.bmp  image_correspondence/000005.bmp 
+image_correspondence/ir_000006.bmp  image_correspondence/000006.bmp 
+image_correspondence/ir_000007.bmp  image_correspondence/000007.bmp 
+image_correspondence/ir_000008.bmp  image_correspondence/000008.bmp 
+image_correspondence/ir_000009.bmp  image_correspondence/000009.bmp 
+
+image_correspondence/ir_000010.bmp  image_correspondence/000010.bmp 
+image_correspondence/ir_000011.bmp  image_correspondence/000011.bmp 
+image_correspondence/ir_000012.bmp  image_correspondence/000012.bmp 
+image_correspondence/ir_000013.bmp  image_correspondence/000013.bmp 
+image_correspondence/ir_000014.bmp  image_correspondence/000014.bmp 
+
+image_correspondence/ir_000015.bmp  image_correspondence/000015.bmp 
+image_correspondence/ir_000016.bmp  image_correspondence/000016.bmp 
+image_correspondence/ir_000017.bmp  image_correspondence/000017.bmp 
+image_correspondence/ir_000018.bmp  image_correspondence/000018.bmp 
+image_correspondence/ir_000019.bmp  image_correspondence/000019.bmp 
+
+image_correspondence/ir_000020.bmp  image_correspondence/000020.bmp 
+image_correspondence/ir_000021.bmp  image_correspondence/000021.bmp 
+image_correspondence/ir_000022.bmp  image_correspondence/000022.bmp 
+image_correspondence/ir_000023.bmp  image_correspondence/000023.bmp 
+image_correspondence/ir_000024.bmp  image_correspondence/000024.bmp 
+
+image_correspondence/ir_000025.bmp  image_correspondence/000025.bmp 
+image_correspondence/ir_000026.bmp  image_correspondence/000026.bmp 
+image_correspondence/ir_000027.bmp  image_correspondence/000027.bmp 
+image_correspondence/ir_000028.bmp  image_correspondence/000028.bmp 
+image_correspondence/ir_000029.bmp  image_correspondence/000029.bmp 
+
+image_correspondence/ir_000030.bmp  image_correspondence/000030.bmp 
