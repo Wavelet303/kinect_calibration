@@ -1,13 +1,11 @@
 cd
-rem kinect_capture  -w 7 -h 5 -ir 0
-rem kinect_capture  -w 7 -h 5 -ir 1
 
-::´øÓĞ-sµÄ±íÊ¾Ö±½Ó´ÓÎÄ¼ş¶ÁÈ¡Í¼Ïñ½øĞĞ±ê¶¨£¬Èç¹û´ËÊ±-ir ÖµÊÇ1Ôò±íÊ¾¶ÁÈ¡ºìÍâÍ¼Ïñ¶ÔºìÍâÏà»ú±ê¶¨
-rem kinect_capture -w 7 -h 5 -s 0.03 -ir 0 -dir calib_images -o camera.ymal
-rem kinect_capture -w 7 -h 5 -s 0.03 -ir 1 -dir calib_images -o ir_camera.ymal
+::å¸¦æœ‰-sçš„è¡¨ç¤ºç›´æ¥ä»æ–‡ä»¶è¯»å–å›¾åƒè¿›è¡Œæ ‡å®šï¼Œå¦‚æœæ­¤æ—¶-ir å€¼æ˜¯1åˆ™è¡¨ç¤ºè¯»å–çº¢å¤–å›¾åƒå¯¹çº¢å¤–ç›¸æœºæ ‡å®š
+rem kinect_calibration -w 7 -h 5 -s 0.03 -ir 0 -dir calib_images -o camera.ymal
+rem kinect_calibration -w 7 -h 5 -s 0.03 -ir 1 -dir calib_images -o ir_camera.ymal
 
-::ex 1±íÊ¾½øĞĞÍâ²¿±ê¶¨£¬ÇóµÃ2¸öÏà»ú£¨²ÊÉ«ºÍºìÍâÏà»ú£©µÄÏà¶ÔÎ»ÖÃ
-rem kinect_capture  -w 7 -h 5 -s 0.03 -ex 1 -ip image_pairs.xml -o ex_camera.ymal
-kinect_capture  -w 7 -h 5 -s 0.03 -ex 1 -ip image_pairs.txt -o ex_camera.ymal
+::ex 1è¡¨ç¤ºè¿›è¡Œå¤–éƒ¨æ ‡å®šï¼Œæ±‚å¾—2ä¸ªç›¸æœºï¼ˆå½©è‰²å’Œçº¢å¤–ç›¸æœºï¼‰çš„ç›¸å¯¹ä½ç½®
+rem kinect_calibration  -w 7 -h 5 -s 0.03 -ex 1 -ip image_pairs.xml -o ex_camera.ymal
+kinect_calibration  -w 7 -h 5 -s 0.03 -ex 1 -ip image_pairs.txt -o ex_camera.ymal
 
 pause
