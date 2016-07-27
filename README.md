@@ -4,4 +4,4 @@ Here is my code for calibration of kinect 1 or kinect2, please see the "kinect_c
 
 I have no time to clean the code now and in the future. 
 
-If your OS is wnidwos, you can use the  "kinect_calibration.bat" to do calibration.
+If your OS is windows, you can use the  "kinect_calibration.bat" to do calibration.
