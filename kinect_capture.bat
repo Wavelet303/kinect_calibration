@@ -1,5 +1,7 @@
 cd
 
+:: to capture only 
+kinect_calibration -w 7 -h 5 -ir 0 -dir calib_images
 ::带有-s的表示直接从文件读取图像进行标定，如果此时-ir 值是1则表示读取红外图像对红外相机标定
 rem kinect_calibration -w 7 -h 5 -s 0.03 -ir 0 -dir calib_images -o camera.ymal
 rem kinect_calibration -w 7 -h 5 -s 0.03 -ir 1 -dir calib_images -o ir_camera.ymal
